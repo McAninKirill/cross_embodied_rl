@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Switching Successor Measures для иерархического zero-shot RL
 
 Репозиторий содержит реализацию **Switching Successor Measures (SSM)** для
@@ -97,6 +96,3 @@ python visualize_subgoals_pkl.py \
 смещается с `1/4` сегмента для `N=3` к `1/5` и `1/6` для `N=4` и `N=5`.
 Подробный анализ приведён в [REPORT.md](REPORT.md).
 
-=======
-# cross_embodied_rl
->>>>>>> d52c461caa08f9fce66c7002f1985085b8d874e3
